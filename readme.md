@@ -1,6 +1,5 @@
 # 🎄 Advent calendar 🎄
 
----
 
 - Author : Sébastien Moraz
 - Version : 1.0.1
